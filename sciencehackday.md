@@ -4,10 +4,9 @@ L'organisation s'est faite en plusieurs étapes, permettant à tous les particip
 
 
 ## Plus d'informations
-* [Organisation générale de l'événement] (sciencehackday.md/programme_organisation.md)
-* [Déroulement du weekend] (sciencehackday.md/Programme_weekend.md)
-* [Les défis] (sciencehackday.md/defis.md)
-
+*[Organisation générale de l'événement] (sciencehackday.md/programme_organisation.md)
+*[Déroulement du weekend] (sciencehackday.md/Programme_weekend.md)
+*[Les défis] (sciencehackday.md/defis.md)
 
 "*Les 25, 26 & 27 novembre 2016 à l’UBO, Halle des Sports. C’est l’occasion pour tous ceux qui aiment leur ville, amateurs de sciences, de techniques et de bricolage de se retrouver pour tenter en 48h, et en équipe, de prototyper un projet fou, créatif, utile… ou pas ! Designers, développeurs, scientifiques, personnes expérimentées ou débutantes : les seuls critères de sélection sont la curiosité et l’envie de faire ensemble ! La philosophie du Science Hack Day, c’est d’abord l’ouverture à tous le monde. On mobilise toutes les sciences de la matière, mais aussi humaines et sociales ! On s’appuye sur la réalité, les forces et les faiblesses de la ville, crise économique, changement climatique mais aussi le vivre ensemble, solidarité, collaboration, renforcement du pouvoir d’agir.*
 
