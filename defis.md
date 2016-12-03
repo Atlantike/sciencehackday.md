@@ -22,9 +22,23 @@ Les premières idées ont été proposées à l'occasion de la soirée d'idéati
 # Pré-projets
 Ces projets ont été proposés sur la [plateforme de contribution en ligne](http://www.sciencehackdaybrest.bzh/index.php/2016/11/07/soumettre-un-projet/) et présenter devant les participants le vendredi 25 novembre.
 
-* [Secours en ligne](http://www.sciencehackdaybrest.bzh/index.php/2016/11/23/avant-projet-secours-citoyens/): *Création d’une application mobile gratuite visant à recenser et à géolocaliser les personnes formées au geste de premiers secours de la région Brestoise*
-* [L’extraordinaire aventure des cycles lumineux](http://www.sciencehackdaybrest.bzh/index.php/2016/11/23/avant-projet-lextraordinaire-aventure-des-cycles-lumineux/): *Création d'un système de projection low-cost/low-tech pour projeter des films/images depuis un vélo*
-* [Transition énergétique, le jeu !](http://www.sciencehackdaybrest.bzh/index.php/2016/11/15/avant-projet-transition-energetique-le-jeu/): *Créer un jeu convivial et éducatif pour expliquer le concept de « transition énergétique*
+* [Secours en ligne](http://www.sciencehackdaybrest.bzh/index.php/2016/11/23/avant-projet-secours-citoyens/): *Création d’une application mobile gratuite visant à recenser et à géolocaliser les personnes formées au geste de premiers secours de la région Brestoise*  
+* [L’extraordinaire aventure des cycles lumineux](http://www.sciencehackdaybrest.bzh/index.php/2016/11/23/avant-projet-lextraordinaire-aventure-des-cycles-lumineux/): *Création d'un système de projection low-cost/low-tech pour projeter des films/images depuis un vélo*  
+* [Transition énergétique, le jeu !](http://www.sciencehackdaybrest.bzh/index.php/2016/11/15/avant-projet-transition-energetique-le-jeu/): *Création d'un jeu convivial et éducatif pour expliquer le concept de « transition énergétique*  
+* [Elec Green-city](http://www.sciencehackdaybrest.bzh/index.php/2016/11/15/avant-projet-elec-green-city/): *Création d'une pile végétale permettant de générer de l’électricité à partir de plantes grâce à la photosynthèse*  
+* [Borne d’arcade pour tous](http://www.sciencehackdaybrest.bzh/index.php/2016/11/15/avant-projet-borne-darcade-pour-tous/): *Réalisation d'une borne d’arcade de jeu vidéo accessible à tous*  
+* [Une mini ville de demain le temps d’un weekend](http://www.sciencehackdaybrest.bzh/index.php/2016/11/15/avant-projet-une-mini-ville-de-demain-le-temps-dun-weekend/): *Imaginatin d'un événement durable servant de démonstrateur à ce que pourrait être la ville de demain*  
+* [Musique accessible aux malentendants et aux sourds](http://www.sciencehackdaybrest.bzh/index.php/2016/11/15/avant-projet-musique-accessible-aux-malentendants-et-aux-sourds/):*Trouver, en 48h et en compagnie de la CARENE, d’autres moyens de la rendre accessible aux malentendants et sourds*  
+* [Accessibilité aux jeux de société pour personnes aveugles](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-accessibilite-aux-jeux-de-societe-pour-personnes-aveugles/):*Adapter des jeux de société aux déficients visuels*
+* [Driftz](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-driftz/):*Créer une œuvre collaborative qui prend la forme d’un jeu massif multi-joueurs en ligne à partir de données environnementales réelles*
+* [Ferme verticale autonome](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-ferme-vertical-autonome-tenant-compte-des-facades-maritimes-de-brest/):*Intégrer l’agriculture en zone urbaine sous forme de bâtiment à étage, formant un écosystème animal/végétal productif et autonome*
+* [Réseau ON<>OFF. L’art dans l’espace Urbain](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-reseau-onoff-lart-dans-lespace-urbain/):*Faire émerger l’Art dans l’espace public urbain.Démocratiser l’art et son accès en occupant les espaces vides et libres dans la ville.*
+* []():* *
+* []():* *
+* []():* *
+* []():* *
+* []():* *
+* []():* *
 
 
 
