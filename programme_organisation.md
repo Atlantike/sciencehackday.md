@@ -19,10 +19,17 @@ Le **7 novembre** est mis en place un [formulaire](http://www.sciencehackdaybres
 
 Le **15 novembre**, les défis proposés sont [mis en ligne](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/tous-les-avant-projets-du-science-hack-day-2016/). Un contact est indiqué pour chacun afin que les participants inscrits puissent déjà communiquer avec les porteurs de projets.
 
+Le **20 novembre** fin des inscriptions des projets en ligne.
+
 Le **21 novembre**, la plateforme [Assemble.rs](https://assemble.rs/) est mise en place pour gérer les projets des différentes équipes ([plus d'infos](http://www.sciencehackdaybrest.bzh/index.php/2016/11/22/assemble-rs-un-site-pour-les-projets/))
 
-Le 22 novembre, les détails de l'organisation sont envoyés aux participants
+Le **22 novembre**, les détails de l'organisation sont envoyés aux participants
+
+Le **24 novembre** les bénévoles aménagent le hall des sports de l'UBO où aura lieu l'événement.
 
 ## Weekend du science hack day
 Le weekend du science hack day à proprement parler s'est tenu les **25, 26 et 27 novembre**, au Hall des Sports de l'Université de Bretagne Occidentale (UBO).  
 [voir programme du weekend](sciencehackday.md/Programme_weekend.md)
+
+## Rangement
+Le **28 novembre**, les bénévoles et participants sont invités à participer au rangement du Hall des sports où a eu lieu l'événement.
