@@ -1,4 +1,4 @@
-#Premières idées
+# Premières idées
 
 Les premières idées ont été proposées à l'occasion de la soirée d'idéation du 2 novembre 2016.
 
@@ -19,7 +19,7 @@ Les premières idées ont été proposées à l'occasion de la soirée d'idéati
 * Créer une tempéreuse à chocolat
 * Un site de vente sans publicités pour les produits locaux
 
-#Pré-projets
+# Pré-projets
 Ces projets ont été proposés sur la [plateforme de contribution en ligne](http://www.sciencehackdaybrest.bzh/index.php/2016/11/07/soumettre-un-projet/) et présenter devant les participants le vendredi 25 novembre.
 
 * [Secours en ligne](http://www.sciencehackdaybrest.bzh/index.php/2016/11/23/avant-projet-secours-citoyens/): *Création d’une application mobile gratuite visant à recenser et à géolocaliser les personnes formées au geste de premiers secours de la région Brestoise*
@@ -28,5 +28,5 @@ Ces projets ont été proposés sur la [plateforme de contribution en ligne](htt
 
 
 
-#Projets finaux
+# Projets finaux
 Ces projets ont formés une équipe lors du weekend du Science Hack Day et ont été présentés devant le public le dimanche 28 novembre.
