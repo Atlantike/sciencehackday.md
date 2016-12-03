@@ -33,13 +33,17 @@ Ces projets ont été proposés sur la [plateforme de contribution en ligne](htt
 * [Driftz](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-driftz/):*Créer une œuvre collaborative qui prend la forme d’un jeu massif multi-joueurs en ligne à partir de données environnementales réelles*
 * [Ferme verticale autonome](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-ferme-vertical-autonome-tenant-compte-des-facades-maritimes-de-brest/):*Intégrer l’agriculture en zone urbaine sous forme de bâtiment à étage, formant un écosystème animal/végétal productif et autonome*
 * [Réseau ON<>OFF. L’art dans l’espace Urbain](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-reseau-onoff-lart-dans-lespace-urbain/):*Faire émerger l’Art dans l’espace public urbain.Démocratiser l’art et son accès en occupant les espaces vides et libres dans la ville.*
-* []():* *
-* []():* *
-* []():* *
-* []():* *
-* []():* *
-* []():* *
-
+* [réseau social de proximité pour chercheur d’emploi](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-reseau-social-de-proximite-pour-chercheur-demploi/):*Créer un outil de réseau social de proximité pour « chercheurs d’emploi » ouvert à tous, pour échanger, partager des vrais contacts, s’entraider à rédiger un cv, écrire la bonne lettre de motivation,...
+* [Module d’assainissement écologique](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-propos-module-dassainissement-ecologique/):*Développement d’un module d’assainissement écologique autour de la méthanisation.*
+* [Orthèse paramétrable](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-orthese-parametrable/):*Développement d’une orthèse paramétrable grâce à un site sur une plateforme.*
+* [Design d’une coque interchangeable pour prothèse](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-design-dune-coque-interchangeable-pour-prothese/):*Design d’une coque interchangeable pour prothèse*
+* [Le vert se tram(e)](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-le-vert-se-trame/):*Il s’agit de développer une App pour aider à la reconquête de l’espace public par les habitant.e.s*
+* [Impression 3D pour batiments](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-impression-3d-pour-batiments/):*Penser les imprimantes 3Ds pour offrir des maisons à des prix abordables pour tout le monde.*
+* [Projet Fabcity sur Brest ?](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/tous-les-avant-projets-du-science-hack-day-2016/):*FAB City est un nouveau modèle urbain pour des villes auto-suffisantes qui produisent localement et sont connectées à la planète*
+* [Rékup’Plastique, fabriquer la broyeuse de plastique](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-broyeuse-de-plastique/):*Créé des machines qui permettent de broyer puis de faire fondre le plastique des déchets *
+* [Site de vente sans pub pour produits locaux](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-site-de-vente-sans-pub-pour-produits-locaux/):*Site de vente sans pub pour produits locaux*
+* [Création d’une tempèreuse de chocolat](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-creation-dune-tempereuse-de-chocolat/):*Fabriquer une tempéreuse à chocolat pour faire du bon chocolat*
+* [Escalade pour mal-voyants](http://www.sciencehackdaybrest.bzh/index.php/2016/11/16/avant-projet-escalade-pour-mal-voyants/):*Aide à la pratique de l’escalade pour des mal-voyant*
 
 
 # Projets finaux
