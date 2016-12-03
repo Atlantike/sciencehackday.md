@@ -1,6 +1,6 @@
 ## Lancement
 Le [site internet](http://www.sciencehackdaybrest.bzh) du science Hack Day est lancé le ...  
-Les inscription sont ouvertes sur le site [HelloAsso]](https://www.helloasso.com/associations/les-petits-debrouillards-grand-ouest/evenements/science-hack-day-brest-2016) à partir du **12 octobre**.  
+Les inscription sont ouvertes sur le site [HelloAsso](https://www.helloasso.com/associations/les-petits-debrouillards-grand-ouest/evenements/science-hack-day-brest-2016) à partir du **12 octobre**.  
 
 Le Science Hack Day est présenté sur un stand à l'occasion de la fête de la science les **14, 15 et 16 Octobre**.
 
