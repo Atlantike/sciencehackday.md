@@ -24,5 +24,5 @@ Le **21 novembre**, la plateforme [Assemble.rs](https://assemble.rs/) est mise e
 Le 22 novembre, les détails de l'organisation sont envoyés aux participants
 
 ## Weekend du science hack day
-Le weekend du science hack day à proprement parler s'est tenu les **25, 26 et 27 novembre**, au Hall des Sports de l'Université de Bretagne Occidentale (UBO).
+Le weekend du science hack day à proprement parler s'est tenu les **25, 26 et 27 novembre**, au Hall des Sports de l'Université de Bretagne Occidentale (UBO).  
 [voir programme du weekend](sciencehackday.md/Programme_weekend.md)
