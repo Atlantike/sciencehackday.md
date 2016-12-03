@@ -5,9 +5,9 @@ Les inscription sont ouvertes sur le site [HelloAsso](https://www.helloasso.com/
 Le Science Hack Day est présenté sur un stand à l'occasion de la fête de la science les **14, 15 et 16 Octobre**.
 
 ## Soirée de lancement
-Organisation d'une soirée de lancement le **02 novembre 2016** [voir détails sur le site](http://www.sciencehackdaybrest.bzh/index.php/2016/11/05/retour-sur-la-soiree-du-2-novembre-2016-avec-les-premieres-idees-de-projets/)
+[voir détails sur le site](http://www.sciencehackdaybrest.bzh/index.php/2016/11/05/retour-sur-la-soiree-du-2-novembre-2016-avec-les-premieres-idees-de-projets/)
 
-Une première soirée d'idéation s'est déroulée à la Brest Business School le 02 novembre, de 18h30 à 20h30
+Une première soirée d'idéation s'est déroulée à la Brest Business School le **02 novembre 2016**, de 18h30 à 20h30
 * Présentation du Science Hack Day et des organisateurs de l'événement
 * Appel aux idées de projets parmi le public
 * Synthèse des premières idées et premier appel aux participants à se joindre aux porteurs de projets
@@ -28,7 +28,7 @@ Le **22 novembre**, les détails de l'organisation sont envoyés aux participant
 Le **24 novembre** les bénévoles aménagent le hall des sports de l'UBO où aura lieu l'événement.
 
 ## Weekend du science hack day
-Le weekend du science hack day à proprement parler s'est tenu les **25, 26 et 27 novembre**, au Hall des Sports de l'Université de Bretagne Occidentale (UBO).  
+Le weekend du Science Hack Day à proprement parler s'est tenu les **25, 26 et 27 novembre**, au Hall des Sports de l'Université de Bretagne Occidentale (UBO).  
 [voir programme du weekend](sciencehackday.md/Programme_weekend.md)
 
 ## Rangement
