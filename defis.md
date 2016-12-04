@@ -9,7 +9,12 @@ Ces projets ont formés une équipe lors du weekend du Science Hack Day et ont �
 * **Broyeuse à plastique**: Le projet de recyclage de plastique a produit la machine de broyage, actuellement alimentée par l'énergie motrice d'un pédalier de vélo.
 * **Equipe Che Guevarech**: L'équipe a imaginer un pneu gonflable et lumineux remplacant les pneux à bruler dans les manifestations, un système de partage de voiture pour y participer, une appli de localisation de palettes pour créer des barricades et un système de génération automatique de slogans.
 * **Braille pour grimpeurs**: Le projet a développé un système de mini-maquette imprimée en 3D représentant le mur d'escalade, et un système de "marque" située sur le mur permettant d'indiquer la suite du parcours.
-* **Driftz**
+* **Driftz**: Le projet a pu réaliser durant le weekend plusieurs avatars capables de "dériver" dans le jeu, que ce soit par modélisation 3D ou par scan de modèles réels
+* **L’extraordinaire aventure des cycles lumineux**: Un premier prototype de vélo a pu être réalisé sur base d'un vélo d'appartement fixe, avec un système de projection et de mise en mouvement du "film".
+* **Création d'outils à commandes numériques**: Le montage de la fraiseuse à commande numérique a bien avancé malgré un manuel de montage non-explicite, l'imprimante a aliments a été montée et des premiers tests avec de la pate d'amande ont été réalisés. Une imprimante à béton a aussi été fabriquée.
+* **L'art dans l'espace urbain**: une réflexion a été menée afin de faire ressortir l'art dans l'espace urbain en fonction des parcours des citoyens dans la ville.
+* **Vert la rue**: une plateforme a été créée afin de pouvoir échanger les informations sur les espaces verts, le compostage, le jardinage collaboratif, ... Trois pochoirs en bois ont aussi été créés sur l'imprimante laser.
+* **Fab-City**: Le groupe fab-city a mené une réflexion sur la cartographie des réseaux coopératifs sur Brest, sur la réutilisation des "déchets", ainsi que sur le développement d'énergies renouvelables dans la ville (voir [le pad](https://hackpad.com/Fab-city-NERGIE-RESSOURCES-et-RSILIENCE-lX8J6I9aNCg))
 
 # Pré-projets
 Ces projets ont été proposés sur la [plateforme de contribution en ligne](http://www.sciencehackdaybrest.bzh/index.php/2016/11/07/soumettre-un-projet/) et présenter devant les participants le vendredi 25 novembre.
